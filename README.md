@@ -1,6 +1,6 @@
 #  挑战项目
 
-这是一个基于 Next.js App Router 和 TypeScript 构建的项目，使用 Chakra UI 组件库实现 UI 元素和样式，并通过 Apollo Client 查询 SpaceX GraphQL API。
+这是一个基于 Next.js App Router 和 TypeScript 构建的项目，使用 Chakra UI 组件库实现 UI 元素和样式，并通过 Apollo Client 查询 AniList GraphQL API。
 
 ## 功能特点
 
